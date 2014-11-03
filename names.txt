@@ -2,16 +2,26 @@ Project name proposals:
 			-black feet
 			-blaph
 			-mike
+			-fact (first audio control tool)
+			
 
 Feature names:
 		1. 	-speed control
 			-pace control
 			-speed advice
 			-speedometer
+			-tempo control
+			-feelometer
+			-feelomat
+			-audienceControl
+			-audiControl
+			-audienceMonitoring
+			-audiMon
 		
 		2.	-question alert
 		
 		3.	-multiple choice
+			-questionize
 		
 		4.	-evaluation
 						
