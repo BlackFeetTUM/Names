@@ -1,0 +1,19 @@
+Project name proposals:
+			-black feet
+			-blaph
+			-mike
+
+Feature names:
+		1. 	-speed control
+			-pace control
+			-speed advice
+			-speedometer
+		
+		2.	-question alert
+		
+		3.	-multiple choice
+		
+		4.	-evaluation
+						
+				
+                              
