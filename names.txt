@@ -1,9 +1,8 @@
 Project name proposals:
-			-black feet
-			-blaph
-			-mike
+
 			-fact (first audio control tool)
-			
+			-black feet
+		
 
 Feature names:
 		1. 	-speed control
