@@ -1,9 +1,16 @@
 Project name proposals:
 
-			-fact (first audio control tool)
+			-fact (first audience control tool)
 			-black feet
-		
-
+			-interact
+			-inter-f-act (mixture of interact with fact)
+			-fac-t-um (first audience control tool - tum)
+			-fama (first audience monitoring app) (spanisch: Ruf, Ansehen, Ruhm)
+			-audiLink
+			-Little Bridge
+			-TUMbridge
+			-EIDI-Bridge (Effective Interaction between auDience and Instructor)
+ 
 Feature names:
 		1. 	-speed control
 			-pace control
