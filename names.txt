@@ -19,6 +19,7 @@ Project name proposals:
 			-translect
 			-lect++
 			-metaLect
+			-teachIt
 			
 			
  
