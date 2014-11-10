@@ -10,6 +10,17 @@ Project name proposals:
 			-Little Bridge
 			-TUMbridge
 			-EIDI-Bridge (Effective Interaction between auDience and Instructor)
+			-intraLect
+			-fart (first audience random tool) ;-)
+			-Lifeto (Live feed back tool)
+			-Kcab deef
+			-mafiaa (monitoring app for instructor and audience)
+			-Wopinion (Wireless opinion)
+			-translect
+			-lect++
+			-metaLect
+			
+			
  
 Feature names:
 		1. 	-speed control
@@ -23,6 +34,7 @@ Feature names:
 			-audiControl
 			-audienceMonitoring
 			-audiMon
+			-pacemaker
 		
 		2.	-question alert
 		
