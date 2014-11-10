@@ -20,6 +20,7 @@ Project name proposals:
 			-lect++
 			-metaLect
 			-teachIt
+			-DIAlect++ (Dumbledore's Informatics Army's lecture++)
 			
 			
  
